@@ -1,0 +1,27 @@
+.c-item {
+    height: 480px;
+}
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.8);
+}
+.available {
+    height: 100px;
+}
+.card-img-top {
+    height: 200px;
+    max-width: 150px;
+}
+a {
+    text-decoration: none;
+}
+.card {
+    box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
+}
+.brand {
+    box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
+}
+.form-container {
+    box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
+}
